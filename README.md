@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Žiga from Slovenia<br><br>- 🔭 I’m working as Software Engineering Intern<br>- 📚 I'm currently learning User Experience approaches, Product Management and Rust<br>- 🧐 I'm interested in Human Cognition with a focus on Creativity and Innovation</p>
+<p align="left">I'm Žiga from Slovenia<br><br>- 🔭 I’m working as Software Developer<br>- 📚 I'm currently learning User Experience approaches, Product Management and Rust<br>- 🧐 I'm interested in Human Cognition with a focus on Creativity and Innovation</p>
 
 ###
 
